@@ -1,0 +1,861 @@
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            27
+  Elapsed runtime seconds:                          0.17
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        0.000000            0.000000
+                                       B        2.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            2.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        6.000000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          0.36
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        0.000000            0.000000
+                                       B        4.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            2.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        14.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          0.55
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        0.000000            0.000000
+                                       B        6.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            2.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        22.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          0.75
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        0.000000            0.000000
+                                       B        7.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            2.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        26.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000001
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          0.94
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        1.000000            0.000000
+                                       B        2.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            1.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        6.000000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000001
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          1.13
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        1.000000            0.000000
+                                       B        4.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            1.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        14.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000001
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          1.32
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        1.000000            0.000000
+                                       B        6.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            1.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        22.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000001
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                            24
+  Elapsed runtime seconds:                          1.51
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        1.000000            0.000000
+                                       B        7.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            1.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        26.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           102
+  Elapsed runtime seconds:                          4.35
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        2.000000            0.000000
+                                       B        2.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            0.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        6.000000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           102
+  Elapsed runtime seconds:                          7.06
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        2.000000            0.000000
+                                       B        4.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            0.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        14.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           102
+  Elapsed runtime seconds:                          9.72
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        2.000000            0.000000
+                                       B        6.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            0.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        22.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.000000
+  Objective bound:                             -8.000000
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           102
+  Elapsed runtime seconds:                         12.38
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        2.000000            0.000000
+                                       B        7.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)        0.000000            0.000000
+                                   X( 2)        4.000000            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.000000           -1.000000
+                                       2        0.000000            2.000000
+                                       3        1.000000            0.000000
+                                       4        26.00000            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.192450
+  Objective bound:                             -8.192450
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           137
+  Elapsed runtime seconds:                         14.74
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        3.000000            0.000000
+                                       B        2.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.2886751          -0.1134656E-07
+                                   X( 2)        3.711325            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.192450           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.7113249            0.000000
+                                       4        5.133975            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.192450
+  Objective bound:                             -8.192450
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           128
+  Elapsed runtime seconds:                         17.16
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        3.000000            0.000000
+                                       B        4.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.2886751          -0.1134656E-07
+                                   X( 2)        3.711325            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.192450           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.7113249            0.000000
+                                       4        12.55662            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.192450
+  Objective bound:                             -8.192450
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           131
+  Elapsed runtime seconds:                         19.54
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        3.000000            0.000000
+                                       B        6.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.2886751          -0.1134656E-07
+                                   X( 2)        3.711325            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.192450           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.7113249            0.000000
+                                       4        19.97927            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.192450
+  Objective bound:                             -8.192450
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           130
+  Elapsed runtime seconds:                         21.91
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        3.000000            0.000000
+                                       B        7.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.2886751          -0.1134656E-07
+                                   X( 2)        3.711325            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.192450           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.7113249            0.000000
+                                       4        23.69060            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.544331
+  Objective bound:                             -8.544331
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           125
+  Elapsed runtime seconds:                         23.96
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        4.000000            0.000000
+                                       B        2.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.4082483            0.000000
+                                   X( 2)        3.591752            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.544331           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.5917517            0.000000
+                                       4        4.775255            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.544331
+  Objective bound:                             -8.544331
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           119
+  Elapsed runtime seconds:                         26.01
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        4.000000            0.000000
+                                       B        4.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.4082483            0.000000
+                                   X( 2)        3.591752            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.544331           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.5917517            0.000000
+                                       4        11.95876            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.544331
+  Objective bound:                             -8.544331
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           130
+  Elapsed runtime seconds:                         28.05
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        4.000000            0.000000
+                                       B        6.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.4082483            0.000000
+                                   X( 2)        3.591752            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.544331           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.5917517            0.000000
+                                       4        19.14226            0.000000
+
+  Global optimal solution found.
+  Objective value:                             -8.544331
+  Objective bound:                             -8.544331
+  Infeasibilities:                              0.000000
+  Extended solver steps:                               1
+  Total solver iterations:                           122
+  Elapsed runtime seconds:                         30.09
+
+  Model Class:                                       NLP
+
+  Total variables:                      2
+  Nonlinear variables:                  1
+  Integer variables:                    0
+
+  Total constraints:                    4
+  Nonlinear constraints:                1
+
+  Total nonzeros:                       8
+  Nonlinear nonzeros:                   1
+
+
+
+                                Variable           Value        Reduced Cost
+                                       A        4.000000            0.000000
+                                       B        7.000000            0.000000
+                                  AA( 1)        0.000000            0.000000
+                                  AA( 2)        1.000000            0.000000
+                                  AA( 3)        2.000000            0.000000
+                                  AA( 4)        3.000000            0.000000
+                                  AA( 5)        4.000000            0.000000
+                                  BB( 1)        2.000000            0.000000
+                                  BB( 2)        4.000000            0.000000
+                                  BB( 3)        6.000000            0.000000
+                                  BB( 4)        7.000000            0.000000
+                                   X( 1)       0.4082483            0.000000
+                                   X( 2)        3.591752            0.000000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1       -8.544331           -1.000000
+                                       2        0.000000            2.000000
+                                       3       0.5917517            0.000000
+                                       4        22.73401            0.000000
+
+ 
