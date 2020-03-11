@@ -3,4 +3,4 @@ The code is from the book Mathematical Modeling Algorithms and Applications most
 
 In this repository, we use "E" for example code, "S" for solution code, "C" for independent code on the main book.
 
-Note that E4_21 and S4_1 gives different results from that on the book.
+Note that E4_21 and S4_1 gives different results from that on the book. E8_11 and S8_5 have the same error: "The value of 'res' is invalid. Expected residual series to be one of these types: double. Instead its type was iddata". S8_6_1 has the error: "Undefined operator '.^' for input arguments of type 'iddata'". For these kinds of error, we can just use res.OutputData instead of res to take lbqtest. Besides, we can use [p,q]=find(myaic==min(min(myaic))) to avoid inputs and automatically give the appropriate p and q values for ARMAX models.
